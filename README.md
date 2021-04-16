@@ -1,4 +1,4 @@
-# <p align="center" > تنصيب سورس طوكيو
+# <p align="center" > تنصيب سورس الشيطان
 # <p align="center" > ✘︙[المطور](https://t.me/KKDKKB1)
 # <p align="center" > ✘︙[المطور الثاني](https://t.me/F16_ibra)
 # <p align="center" > ┉ ✘ ┉ ✘ ┉ ✘ ┉ ✘ ┉
