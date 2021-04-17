@@ -44,7 +44,7 @@ cd .. ;sudo rm -rf luarocks*
 sudo timedatectl set-timezone Asia/Baghdad
 echo -e "\033[0;36m"
 echo -e " -------------------------------------------------------"
-echo -e "|             مرحبا بكم في سورس الشيطان                   |"   
+echo -e "|               مرحبا بكم في سورس الشيطان                   |"   
 echo -e "|            المطورين : @KKDKKB1 - @F16_ibra              |"
 echo -e "|                                                       |"
 echo -e "|                                                       |"
